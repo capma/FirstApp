@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "deEGE7ScsKOSDOHG5ueBnBcYge9BD/pcaVhdTY5DC+8=",
+  "Source": "FirstApp.Server",
+  "BasePath": "_content/FirstApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\qtripham\\source\\repos\\FirstApp\\firstapp.client\\firstapp.client.esproj",
+      "Version": 2,
+      "Source": "firstapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
